@@ -34,7 +34,7 @@ public class Exer3 {
          
          int posicion=0;
          
-        
+        //Reconstruir empleando la clase palabra
          /*
          while(st.hasMoreTokens()){
              palabra[posicion]=st.nextToken();
